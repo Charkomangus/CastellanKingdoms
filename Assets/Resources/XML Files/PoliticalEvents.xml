@@ -1,0 +1,308 @@
+<cards>
+	<card rank = "1">
+		<title>Famine</title>
+		<description>Famine ravages the land, people are dying by the hundred. What will you do?</description>
+		<history>Famine was a common occurance in the Medieval Era, with any number of things causing them; drought, floods, heat, cold - the list could go on. As a result, many people of this era were malnourished and lived far shorter lives than those of more modern times.</history>
+		<choice name = "Option1">Rally the farmers, perform a public speech to bolster morale</choice>
+		<choice name = "Option2">Assign soldiers to help work the land</choice>
+		<outcome name = "Outcome1">Interesting decision, while the speech has brough some much needed relief to the people - it has not really solved the problem at hand. We must wait and see what the future holds...</outcome>
+		<outcome name = "Outcome2">Ah, excellent - the people are extremely happy with this new work force and are sure to recover from these dark times. However, using so many soldiers has resulted in a weakened grasp in other areas of the empire. The soldiers also need fed and food costs gold.</outcome>
+		<popularity name = "Popularity1">1</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">-1</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">-1</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "2">
+		<title>Plague</title>
+		<description>People lie dying on the streets, the stench of the dead lingering in the morning air. If the pestilence is not stopped soon, this kingdom will surely fall!</description>
+		<history>Disease ravaged Medieval Europe, the spread helped by the poor hygiene and lifestyle of the people at the time. The most infamous diease to sweep the lands was the Black Death, or Bubonic Plague, thought to have spread to Europe from the East.</history>
+		<choice name = "Option1">Quarantine the infected and pray that the pestilence doesnnot escape</choice>
+		<choice name = "Option2">Kill any who show symptoms, this will extinguish this sickness from the land</choice>
+		<outcome name = "Outcome1">A difficult choice, quarantines are very expensive to uphold but the disease seems to be losing momentum.</outcome>
+		<outcome name = "Outcome2">A leader is required to make harsh decisions, sacrificing the few to save the many... though, needless to say, the people are disgusted by your choices. Hopefully this will not hinder your rule.</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-5</popularity>
+		<gold name = "Gold1">-5</gold>
+		<gold name = "Gold2">3</gold>
+		<influence name = "Influence1">-1</influence>
+		<influence name = "Influence2">1</influence>
+		<piety name = "Piety1">-1</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "3">
+		<title>Bountiful Harvest</title>
+		<description>The nation has been blessed with a plentiful supply of food. However, the question remains as to how to distribute the spoils...</description>
+		<history>A good harvest was essential to the lives of all during the Middle Ages, from the lowest peasant to the most powerful noble. A good harvest allowed all to avoid malnutrition and, as such, prevent the onset of disease or even death.</history>
+		<choice name = "Option1">Sell the supplies to other nations.</choice>
+		<choice name = "Option2">Release much of the crop back to the peasants.</choice>	
+		<outcome name = "Outcome1">Trade with the other nations has increased our influence in foreign territories, and the gold will be most useful too!</outcome>
+		<outcome name = "Outcome2">While the crops could have brought in much needed gold, you decided to be charitable. This is generosity has made you most beloved throughout the empire!</outcome>
+		<popularity name = "Popularity1">-1</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">3</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">2</piety>
+	</card>
+	<card rank = "4">
+		<title>The Bucket</title>
+		<description>An old woman wanders into the court room, waddles towards you and whispers into your ear, "Me bucket is alive..."</description>
+		<history>Mental illness was somewhat of a taboo subject in the Medieval Era. Ranging from depression to schizophrenia, illnesses would be attributed to things such as demonic possession.</history>
+		<choice name = "Option1">Demand that this clearly insane woman be removed immediately</choice>
+		<choice name ="Option2">Nod in agreement</choice>
+		<outcome name = "Outcome1">The old woman turns hostile and begins attacking the guards with a sharpened broom. It is a massacre...you and your advisors, hiding in a cupboard, watch as she chants in some strange tongue - a curse maybe? You will never know.</outcome>
+		<outcome name = "Outcome2">This woman is clearly insane, but rich! She drops a sack of coins in your lap before slowly edging out of the court room, all the while maintaining eye contact.</outcome>
+		<popularity name = "Popularity1">-1</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">2</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">-3</piety>
+		<piety name = "Piety2">1</piety>
+	</card>
+		<card rank = "5">
+		<title>A Traitor in Our Midst</title>
+		<description>With a harrowed frown, your advisor informs you that one of your most trusted Vassal has been plotting against you... which would explain the last five shipments of poisoned wine you've received. You need to handle this.</description>
+		<history>Treason against a King was seen as one of the worst crimes imaginable. Known by law as a traitor, those who commited this act were often punished by death.</history>
+		<choice name = "Option1">Confront this Lord and command him to cease his scheming at once.</choice>
+		<choice name = "Option2">Let the traitor rot in the dungeon... the hangman's noose will be his end.</choice>
+		<outcome name = "Outcome1">The lord bursts into a fit of laughter, mocking you. However, he quickly notices the brigade of armed men standing behind you and his face grows pale, 'U-uh, yes! Very well! Of course, one could never be disloyal to one such as you!' You won't be recieving much trouble from this lord in the future!</outcome>
+		<outcome name = "Outcome2">Guards invade the traitors house and throw him in the dungeon. However, this lord was powerful and had many friends. Needless to say, the repercussions of this will come back to haunt you...</outcome>
+		<popularity name = "Popularity1">1</popularity>
+		<popularity name = "Popularity2">-1</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">-1</influence>
+		<influence name = "Influence2">1</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+		<card rank = "6">
+		<title>Fire, Fire!</title>
+		<description>The town is on fire! No one knows how it started, rumours say that the local Priest goes overboard with candles. You must extinguish the blaze before it destroys everything!</description>
+		<history>Destruction of property due to fire was common. Fire was used as the primary means of both light and heat and many buildings of the time were build from wood.</history>
+		<choice name = "Option1">Command all your troops to put out the fire.</choice>
+		<choice name = "Option2">Pray to God for Guidance and wait it out.</choice>
+		<outcome name = "Outcome1">The effort saved many lives, but it was quite a strain on the royal treasury. Though, the people are most grateful to you.</outcome>
+		<outcome name = "Outcome2">You have shown great faith in God, and you have been rewarded with the fires being extinguished by unusually heavy rains. Though...the fire has been raging for a good 6 months...regardless, you had faith! Regretfully, many of the citezens do not share your faith and do not approve of your methods, not one bit.</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-2</popularity>
+		<gold name = "Gold1">-3</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">1</piety>
+	</card>
+	<card rank = "7">
+		<title>Flood</title>
+		<description>Water raged and ripped through the streets, dragging all souls caught in its path to certain death. The farms are ruined, lifestock utterly desimated - something must be done...</description>
+		<history>People in Medieval Europe had a limited understanding of the world. Natural disasters, such as severe flooding, were often seen as God enacting his wrath upon sinners. </history>
+		<choice name = "Option1">Order the farmers to retreat to to the Highlands of your Keep and wait until the water subsides.</choice>
+		<choice name = "Option2">Order the farmers to try and salvage from the ruins.</choice>
+		<outcome name = "Outcome1">The farmers appear pleased that you have held their saftey with high regard! However, much was swept away by the floods - including the livestock which would have brought great profit!</outcome>
+		<outcome name = "Outcome2">The farmers are most displeased - making them work in awful conditions, with no regard for their safety! But at least you were able to salvage a great number of teapots and cows!</outcome>
+		<popularity name = "Popularity1">1</popularity>
+		<popularity name = "Popularity2">-2</popularity>
+		<gold name = "Gold1">-3</gold>
+		<gold name = "Gold2">-1</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">1</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "8">
+		<title>Revolt</title>
+		<description>Your population threatens to revolt and the city guard has arrested some of the ringleaders. Your treatment of them will set an example for the others, choose carefully.</description>
+		<history>Revolts, or 'popular uprisings' were common throughout the 14th and 15th centuries, largely in response to the divide between the peasants and the nobility. </history>
+		<choice name = "Option1">Use diplomacy and reason with the leaders, give back a little to the peasants.</choice>
+		<choice name = "Option2">Slaughter the ringleaders, fear is sure to end the turmoil.</choice>
+		<outcome name = "Outcome1">You meet with the rebel leaders and show a compassion that they had not thought possible. They agree to calm the rest of the revolters, with the assurance that you will give them more power over their own lives.</outcome>
+		<outcome name = "Outcome2">Brutality such as this is rarely seen, but it has shocked the rebels into submission. Inflicting fear directly into their ranks, they are to cowardly to try and revolt again.</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-2</popularity>
+		<gold name = "Gold1">-4</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">-1</influence>
+		<piety name = "Piety1">1</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "9">
+		<title>Civil War</title>
+		<description>Your kingdom stands on the brink of civil war. Your army has weakened the rebels, but it's only a matter of time before they regain strength. You have the opportunity to put an end to this before it escalates further.</description>
+		<history>Civil wars have been a common occurance throughout history. Many start as a result of the death of a monarch, as it must be decided who will take over as ruler.</history>
+		<choice name = "Option1">Deploy more soldiers to try and destroy any threat to the throne</choice>
+		<choice name = "Option2">Bribe the leaders of the rebel army to ensure peace.</choice>
+		<outcome name = "Outcome1">Your soldiers swiftly destroy the rebel army, slaughtering any and all stragglers. You have shown great power and your influence has increased in these rebellious lands.</outcome>
+		<outcome name = "Outcome2">A more subtle means of avoiding warfare, the leaders' greed outweighed their hatred for you - a successful manipulation.</outcome>
+		<popularity name = "Popularity1">-1</popularity>
+		<popularity name = "Popularity2">1</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">-4</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "10">
+		<title>Assassination</title>
+		<description>Spies have found evidence of treachery in your court; swift action must be taken. you have the opportunity to assassinate them and stop any threat...or you may take a softer approach. </description>
+		<history>Asinine as it is, assassination was often used to rid obstacles in individuals quest for power within the political world - and was not uncommon. Unlike today, with modern technology, it was far easier to get away with murder or to place the blame on someone else.</history>
+		<choice name = "Option1">Send assassins to rid this world of the traitor.</choice>
+		<choice name = "Option2">Arrest the traitor and assign a new role within the court, the court Jester.</choice>
+		<outcome name = "Outcome1">Your assassins stalk the traitor into a dark alleyway, moving like shadows following his footsteps. What happened of this man, nobody will ever know - but he will no longer be a threat to you, or your throne.</outcome>
+		<outcome name = "Outcome2">Humiliation; the best way to subdue enemies. You watch as the traitor dances, fish pie dripping from his face. Ahh, the beauty of being a ruler!</outcome>
+		<popularity name = "Popularity1">0</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">2</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "11">
+		<title>Captured Spies</title>
+		<description>Your scouts have captured a group of enemy spies. After questioning they have refused to give any useful information. What would you have done with them?</description>
+		<history>Spies were commonly used during wartime to gain information on the enemy. The Roman and Spanish monarchies also made use of spies as part of religious movements against unbelievers.</history>
+		<choice name = "Option1">Show them your kingdom, treat them well and perhaps they might talk.</choice>
+		<choice name = "Option2">Force them to speak, a tad of torture is sure to do the trick.</choice>
+		<outcome name = "Outcome1">You tour around the city with the spies, showing them the wonder of your kingdom. You take them to meet the townsfolk, to pray in the church and eventually to the tavern - and the drinks are on you! This tactic proves most useful! In their drunken slurring, you hear the information you need! Excellent!</outcome>
+		<outcome name = "Outcome2">You listen to the screams echoing through the keep; it lasts for hours, eventually you just tune it out. The torturers work for days trying to get the information from them, but the spies nor the information ever emerges from the dungeons...</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-2</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">1</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">2</piety>
+		<piety name = "Piety2">-2</piety>
+	</card>
+	<card rank = "12">
+		<title>Diplomacy</title>
+		<description>You dispatched ambassadors to a foreign land. They report that your relations abroad would be improved by sponsoring their hosts, providing gold so they may flourish. How do you reply?</description>
+		<history>Alliances have been important throughout history for nations. They can turn the tide of the fiercest wall, increase power and even forge new nations.</history>
+		<choice name = "Option1">Agree, it will be a small price to pay for the new alliance.</choice>
+		<choice name = "Option2">Disagree, this nation has no need of alliances with the likes of them.</choice>
+		<outcome name = "Outcome1">You send your ambassadors a sack of coin, decorated with the royal seal. The nation is most grateful! As such, they reveal an array of technology you thought impossible - including a way to cause cows to produce gin! A most popular outcome indeed.</outcome>
+		<outcome name = "Outcome2">Your inability to form alliances is just the beginning of your antisocial attitude, even as a child you threw spoons at any children who would try and form friendships...as leader, you must learn that alliances are vital to nations!</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-1</popularity>
+		<gold name = "Gold1">-4</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">2</influence>
+		<influence name = "Influence2">-2</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "13">
+		<title>Intrigue</title>
+		<description>Members of the public have become interested in the workings of the court, and seem to be eager to know what is being done. However, the common folk have no place in the court - what will you do?</description>
+		<history>In the middle ages, peasants had little say over the matters of the nation. Often, this lack of communication between the nobility and commoners would cause a mutual distrust, sometimes resulting in the outbreak of violence.</history>
+		<choice name = "Option1">Elect a well renowned member of the public to act as the spokesperson to the court, they will report back to the people.</choice>
+		<choice name = "Option2">Ignore the townsfolk, time is gold and reporting back to them will use up valuble time.</choice>
+		<outcome name = "Outcome1">You elect Beatrice Hedgepledge as the spokeswoman for the town and she attends all of the non-confidential court meetings. She is an excellent speaker and tells the people of the court proceedings! The people rejoice in their new political involvement!</outcome>
+		<outcome name = "Outcome2">You have been dubbed as 'the worst thing since ever' and many an egg is thrown at the castle! People are not happy, they know how little you consider them!</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">-2</popularity>
+		<gold name = "Gold1">-1</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "14">
+		<title>Usurper</title>
+		<description>A distant relation, long presumed dead, has returned to your capital and challenged your right to rule. They believe themselves to have a firmer claim to the throne. What will you do?</description>
+		<history>Heritage was a very important thing in Medieval times. Generally, the first-born male would be the heir of the family. However, others could make claims on the inheritance - and documentation of lineage was less thorough in medieval times. Arguments surrounding inheritance, particularly in the monarchy, would often result in violoence.</history>
+		<choice name = "Option1">Send assassins to capture and 'deal' with the challenger, nobody can know.</choice>
+		<choice name = "Option2">This 'relation' is clearly after wealth, give him a bit of gold and avoid trouble.</choice>
+		<outcome name = "Outcome1">Your assassins find this man passed out in the middle of a churchyard. The smell of alcohol radiates from his unconcious body and the assassins realise that he is not a threat. Rather than kill him, they throw him in a sack and throw him over the border into a different country - he's their problem now!</outcome>
+		<outcome name = "Outcome2">You give into his wishes and the man utters a smug cackle, 'Pleasure doin' business wiv ya!' How could you? This is obviously just a con-man! The people are not pleased that their tax money has ended up in some drunk's back pocket!</outcome>
+		<popularity name = "Popularity1">1</popularity>
+		<popularity name = "Popularity2">-1</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">-2</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "15">
+		<title>Population Boom</title>
+		<description>Your nation’s prosperity allows its population to grow, but this sudden expansion is not without its problems...find a way to deal with the increase in population before it begins to drain the kingdom's resources.</description>
+		<history>The world populatation in the middle ages was but a fraction of what it is now. However, resources such as food and construction materials were not readily available as they are now. This was primarily due to limits in technology and industry, and the most common means of obtaining resource was through trade.</history>
+		<choice name = "Option1">Issue a conscription law, this way more people will join the war effort</choice>
+		<choice name = "Option2">Begin spreading agriculture into nearby forests, more farmers means more food</choice>
+		<outcome name = "Outcome1">You issue the law and it's effects become obvious quickly. This was not an especially popular option, people generally don't like being forced to fight wars, but it has increased your influence!</outcome>
+		<outcome name = "Outcome2">The sound of chopping reverbs throughout the kingdom and the landscape changes dramatically! Fields dot the country, filled with crops for feeding the increasing population. This is sure to benefit this nation for generations to come.</outcome>
+		<popularity name = "Popularity1">-1</popularity>
+		<popularity name = "Popularity2">0</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">2</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">0</piety>
+	</card>
+	<card rank = "16">
+		<title>Illigitimate Heir</title>
+		<description>A young commoner claims to be your rightful heir. His story seems absurd and he has no proof other than his word. However, you must consider this - even as a formality...</description>
+		<history>Children born out of wedlock were often seen as lesser and were shunned. They did not have a legitimate claim on inheritance but, if their parents had no other heir, they would then be considered.</history>
+		<choice name = "Option1">Convince him to drop his claim, surely he knows this lie won't work.</choice>
+		<choice name = "Option2">This boy is obviously desperate, give him a helping hand.</choice>
+		<outcome name = "Outcome1">You pull the boy to the side and stare at him. He grows ever more uncomfortable as your gaze pierces right through him. Eventually, he cries, 'Ok! Ok! You've got me! I just wanted attention!' He runs from the keep as you chuckle. </outcome>
+		<outcome name = "Outcome2">You let out a sigh as you signal your advisor to give him a couple of coins, his face beams as he darts gleefully from the court room. You softy!</outcome>
+		<popularity name = "Popularity1">1</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">0</gold>
+		<gold name = "Gold2">-1</gold>
+		<influence name = "Influence1">0</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">1</piety>
+	</card>
+	<card rank = "17">
+		<title>Blocked Trading Routes</title>
+		<description>The presence of your enemies has intimidated merchants and traders, leading to a shortage of resources. You must address this situaiton.</description>
+		<history>During warfare, a common way to weaken the enemy was to cut off their resources. This was particularly effective in medieval times as countries would have no other way of gaining or selling resources if the trade routes were blocked.</history>
+		<choice name = "Option1">Threaten the merchants, the wrath of this kingdom will be far worse than anything our enemies can muster.</choice>
+		<choice name = "Option2">Send a message of assurance to the merchants and provide military units to guard them on their journey.</choice>
+		<outcome name = "Outcome1">You send a band of the most scary looking mercenaries you can find to shout at them until they agree to resume trade. An...interesting...but clearly effective choice.</outcome>
+		<outcome name = "Outcome2">Writing with upmost sincerity, you assure the merchants that they have nothing to fear and send soldiers to assist them in their journey. The merchants are most grateful and provide a bit of coin as thanks.</outcome>
+		<popularity name = "Popularity1">-1</popularity>
+		<popularity name = "Popularity2">2</popularity>
+		<gold name = "Gold1">1</gold>
+		<gold name = "Gold2">2</gold>
+		<influence name = "Influence1">1</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">-1</piety>
+		<piety name = "Piety2">1</piety>
+	</card>
+	<card rank = "18">
+		<title>Poisoned Water Supply</title>
+		<description>A recent bout of illness and mysterious deaths have revelaed that your water supply has been tainted by illness. This will not be easily reoslved, but something must be done.</description>
+		<history>Waterbourne diseases such as cholera were a common cause of death in the middle ages. There was an extremely limited understanding of medicine and people didn't understand how diseases spread.</history>
+		<choice name = "Option1">Buy in clean water from other nations, this will quickly resolve the matter.</choice>
+		<choice name = "Option2">Construct a new well, further away from the most populated areas. In time, the water will be clean again.</choice>
+		<outcome name = "Outcome1">You issue a request for trade to other nations and, upon hearing of your predicament, many provide fresh water for your people; for a cost, of course.</outcome>
+		<outcome name = "Outcome2">You issue a command to the local masons to begin work on a well. While it's benefits may not be seen immediately, but it will prove most useful for the generations to come.</outcome>
+		<popularity name = "Popularity1">2</popularity>
+		<popularity name = "Popularity2">1</popularity>
+		<gold name = "Gold1">-3</gold>
+		<gold name = "Gold2">0</gold>
+		<influence name = "Influence1">2</influence>
+		<influence name = "Influence2">0</influence>
+		<piety name = "Piety1">0</piety>
+		<piety name = "Piety2">1</piety>
+	</card>
+</cards>

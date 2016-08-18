@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: be2cb83ba38cb6d4b8a64cd0732aa256
+timeCreated: 1430649317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlagSpriteHoly_0
+    21300002: FlagSpriteHoly_1
+    21300004: FlagSpriteHoly_2
+    21300006: FlagSpriteHoly_3
+    21300008: FlagSpriteHoly_4
+    21300010: FlagSpriteHoly_5
+    21300012: FlagSpriteHoly_6
+    21300014: FlagSpriteHoly_7
+    21300016: FlagSpriteHoly_8
+    21300018: FlagSpriteHoly_9
+    21300020: FlagSpriteHoly_10
+    21300022: FlagSpriteHoly_11
+    21300024: FlagSpriteHoly_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlagSpriteHoly_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1153
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1140
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_2
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1123
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_3
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1140
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 815
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 815
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 815
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_7
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 815
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 499
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 499
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 499
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 499
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteHoly_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 207
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{5C68DA50-A47C-A2D6-9238-7111E046EB25}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_4;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_WEBPLAYER;ENABLE_SUBSTANCE;WEBPLUG;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Code\Interfaces\IStateBase.cs" />
+     <Compile Include="Assets\Code\Scripts\Area.cs" />
+     <Compile Include="Assets\Code\Scripts\CardMilitary.cs" />
+     <Compile Include="Assets\Code\Scripts\CardPapal.cs" />
+     <Compile Include="Assets\Code\Scripts\CardPolitics.cs" />
+     <Compile Include="Assets\Code\Scripts\Castle.cs" />
+     <Compile Include="Assets\Code\Scripts\CastleManager.cs" />
+     <Compile Include="Assets\Code\Scripts\ConquestMapManager.cs" />
+     <Compile Include="Assets\Code\Scripts\CourtManager.cs" />
+     <Compile Include="Assets\Code\Scripts\DeckPapal.cs" />
+     <Compile Include="Assets\Code\Scripts\DeckPolitics.cs" />
+     <Compile Include="Assets\Code\Scripts\DisableCursor.cs" />
+     <Compile Include="Assets\Code\Scripts\EndManager.cs" />
+     <Compile Include="Assets\Code\Scripts\Faction.cs" />
+     <Compile Include="Assets\Code\Scripts\GameData.cs" />
+     <Compile Include="Assets\Code\Scripts\LoadPoliticalCard.cs" />
+     <Compile Include="Assets\Code\Scripts\LossManager.cs" />
+     <Compile Include="Assets\Code\Scripts\MusicManager.cs" />
+     <Compile Include="Assets\Code\Scripts\OpeningManager.cs" />
+     <Compile Include="Assets\Code\Scripts\PitchedBattleAnim.cs" />
+     <Compile Include="Assets\Code\Scripts\PitchedBattleManager.cs" />
+     <Compile Include="Assets\Code\Scripts\Player.cs" />
+     <Compile Include="Assets\Code\Scripts\QuitGame.cs" />
+     <Compile Include="Assets\Code\Scripts\SaveLoad.cs" />
+     <Compile Include="Assets\Code\Scripts\SiegeBattleAnim.cs" />
+     <Compile Include="Assets\Code\Scripts\SiegeBattleManager.cs" />
+     <Compile Include="Assets\Code\Scripts\StartMenuManager.cs" />
+     <Compile Include="Assets\Code\Scripts\StateManager.cs" />
+     <Compile Include="Assets\Code\Scripts\UIManager.cs" />
+     <Compile Include="Assets\Code\Scripts\mousePointer.cs" />
+     <Compile Include="Assets\Code\States\CastleStates\BarracksState.cs" />
+     <Compile Include="Assets\Code\States\CastleStates\CathedralState.cs" />
+     <Compile Include="Assets\Code\States\CastleStates\LibraryState.cs" />
+     <Compile Include="Assets\Code\States\CastleStates\MasonState.cs" />
+     <Compile Include="Assets\Code\States\CastleStates\TreasuryState.cs" />
+     <Compile Include="Assets\Code\States\CourtStates\CourtMainState.cs" />
+     <Compile Include="Assets\Code\States\CourtStates\PapalAdvisorState.cs" />
+     <Compile Include="Assets\Code\States\CourtStates\PoliticalAdvisorState.cs" />
+     <Compile Include="Assets\Code\States\EndState.cs" />
+     <Compile Include="Assets\Code\States\LossState.cs" />
+     <Compile Include="Assets\Code\States\Play_CastleState.cs" />
+     <Compile Include="Assets\Code\States\Play_ConquestState.cs" />
+     <Compile Include="Assets\Code\States\Play_CourtState.cs" />
+     <Compile Include="Assets\Code\States\Start_MenuState.cs" />
+     <Compile Include="Assets\Code\States\Start_OpeningState.cs" />
+     <None Include="Assets\Resources\XML Files\PoliticalEvents.xml" />
+     <None Include="Assets\Resources\XML Files\PapalCards.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

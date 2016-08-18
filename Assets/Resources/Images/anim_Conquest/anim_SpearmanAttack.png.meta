@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 58c571d36fbf14142964f0ea5d578f98
+timeCreated: 1431123431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anim_SpearmanAttack_0
+    21300002: anim_SpearmanAttack_2
+    21300004: anim_SpearmanAttack_4
+    21300006: anim_SpearmanAttack_5
+    21300008: anim_SpearmanAttack_7
+    21300010: anim_SpearmanAttack_8
+    21300012: anim_SpearmanAttack_10
+    21300014: anim_SpearmanAttack_11
+    21300016: anim_SpearmanAttack_13
+    21300018: anim_SpearmanAttack_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: anim_SpearmanAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 578
+        height: 690
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 43
+        width: 588
+        height: 677
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 25
+        width: 581
+        height: 684
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 8
+        width: 566
+        height: 712
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 0
+        width: 546
+        height: 715
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_8
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 16
+        width: 547
+        height: 694
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 11
+        width: 578
+        height: 709
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_11
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 13
+        width: 578
+        height: 704
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_13
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 18
+        width: 588
+        height: 702
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_SpearmanAttack_15
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 6
+        width: 585
+        height: 696
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

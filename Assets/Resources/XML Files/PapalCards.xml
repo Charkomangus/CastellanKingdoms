@@ -1,0 +1,208 @@
+<cards>
+	<card rank = "1">
+		<title>Crusades</title>
+		<description>The Pope has decreed that the Eastern Heretics must be dealt with. You are required to provide soldiers for the holy crusade. Choosing this might be quite costly, and someone of a higher influence might be needed...</description>
+		<history>A crusade was a military movement that was controlled by the catholic church.</history>
+		<cost stat = "CostGold">0</cost>
+		<cost stat = "CostInfluence">2</cost>
+		<cost stat = "CostPiety">1</cost>
+		<cost stat = "CostPopularity">-1</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">1</reward>
+		<reward stat = "RewardPiety">1</reward>
+		<reward stat = "RewardPopularity">0</reward>
+		<penalty stat = "PenaltyGold">-2</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-2</penalty>
+		<penalty stat = "PenaltyPopularity">0</penalty>
+	</card>
+	<card rank = "2">
+		<title>Repentance</title>
+		<description>Your actions have brought shame upon the faith! You must publicly show repentance for your sins and pay a customary tithe. Only someone who is both believing in our lord, and wealthy, may carry out this task.</description>
+		<history>If a person sinned, they felt compelled to do something to make up for it. Some would even go so far as to build grand monuments to their faith.</history>
+		<cost stat = "CostGold">3</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">-2</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">0</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-2</penalty>
+		<penalty stat = "PenaltyPopularity">-1</penalty>
+	</card>
+	<card rank = "3">
+		<title>Church</title>
+		<description>People must know the glory of our Lord, build a church in your lands so the commoners may worship. A little gold will be needed to get it built.</description>
+		<history>The Medieval Church played a far greater role in Medieval England than the Church does today. In Medieval England, the Church dominated everybody's life.</history>
+		<cost stat = "CostGold">2</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">-1</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">-1</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">-2</penalty>	
+	</card>
+	<card rank = "4">
+		<title>Cathedral</title>
+		<description>What better way to honour the glory of God than building a magnificent Cathedral? Cathedral's are costly...but the benefits would be clear</description>
+		<history>The building of cathedrals in the middle ages was a reflection of faith. Rather than going on crusades, people could build places of worship in place of going on crusades.</history>
+		<cost stat = "CostGold">4</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">0</cost>
+		<cost stat = "CostPopularity">0</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">-1</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">-2</penalty>
+	</card>
+	<card rank = "5">
+		<title>Blessing</title>
+		<description>Request that a representative of faith bless your lands. He might require a small 'donation'...</description>
+		<history>Blessings were used as a means of divine protection for travellers, rulers - virtually anyone in medieval society.</history>
+		<cost stat = "CostGold">2</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">-2</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">1</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">0</reward>
+		<penalty stat = "PenaltyGold">-2</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">0</penalty>
+	</card>
+	<card rank = "6">
+		<title>Endoresment</title>
+		<description>The Pope wishes to endorse you as a true and just ruler, you must travel to the Vatican to recieve this honour. You must show a great loyalty to the pope for this honor...</description>
+		<history>The Pope was extremely powerful in the middle ages and his word held great sway. To be endorsed by the pope would provide legitimacy of rulership and great honour.</history>
+		<cost stat = "CostGold">-2</cost>
+		<cost stat = "CostInfluence">-3</cost>
+		<cost stat = "CostPiety">4</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">2</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">0</penalty>
+		<penalty stat = "PenaltyInfluence">-2</penalty>
+		<penalty stat = "PenaltyPiety">-2</penalty>
+		<penalty stat = "PenaltyPopularity">0</penalty>
+	</card>
+	<card rank = "7">
+		<title>Jubilee</title>
+		<description>The Pope declares a jubilee, arrange festivities! Celebrations are expensive...</description>
+		<history>When a pope called a jubilee, it was a time of great indulgence and people across the lands would celebrate.</history>
+		<cost stat = "CostGold">2</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">0</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">1</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">0</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">-2</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">-1</penalty>
+	</card>
+	<card rank = "8">
+		<title>Heretics</title>
+		<description>Heretics are within your midst, punish them. Both faith in our Lord and power within these lands will be needed.</description>
+		<history>A heretic is someone who goes against the church. In the medieval era, they were greatly frowned upon.</history>
+		<cost stat = "CostGold">0</cost>
+		<cost stat = "CostInfluence">2</cost>
+		<cost stat = "CostPiety">2</cost>
+		<cost stat = "CostPopularity">1</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">1</reward>
+		<reward stat = "RewardPiety">1</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">0</penalty>
+		<penalty stat = "PenaltyInfluence">-1</penalty>
+		<penalty stat = "PenaltyPiety">-2</penalty>
+		<penalty stat = "PenaltyPopularity">-1</penalty>
+	</card>
+	<card rank = "9">
+		<title>A Dark Faith</title>
+		<description>Satanists and hethens have amassed in a cult. Destroy them. You must have faith in our Lord to complete this task.</description>
+		<history>People who did not adhere to the conventional chistianic worship were dubbed as being pagans and were seen as followers of the devil.</history>
+		<cost stat = "CostGold">0</cost>
+		<cost stat = "CostInfluence">1</cost>
+		<cost stat = "CostPiety">3</cost>
+		<cost stat = "CostPopularity">0</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">1</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">0</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-3</penalty>
+		<penalty stat = "PenaltyPopularity">-1</penalty>
+	</card>
+	<card rank = "10">
+		<title>Trials of Heresy</title>
+		<description>The church will soon be laying judgement to an errant Duke who has consorted with demons. You must testify against him. Sway with the people may come in useful to complete this task.</description>
+		<history>The Inquisition was the main body in charge of dispelling heresy. It was active in several nations and was considered quite powerful.</history>
+		<cost stat = "CostGold">0</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">1</cost>
+		<cost stat = "CostPopularity">2</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">1</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">0</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">-2</penalty>
+	</card>
+	<card rank = "11">
+		<title>Protect the Prophet</title>
+		<description>A new prophet has started preaching throughout the lands with our blessing. Sadly, these are dark times and he has been assaulted twice. You must provide him a guard. This will require a few coins and some influence within these lands.</description>
+		<history>Prophecy is often seen as a major theme in the middle ages, if not the major theme. Many prophecies talked of the antipope, who led people away from God.</history>
+		<cost stat = "CostGold">1</cost>
+		<cost stat = "CostInfluence">1</cost>
+		<cost stat = "CostPiety">0</cost>
+		<cost stat = "CostPopularity">0</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">2</reward>
+		<reward stat = "RewardPopularity">0</reward>
+		<penalty stat = "PenaltyGold">-1</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-2</penalty>
+		<penalty stat = "PenaltyPopularity">0</penalty>
+	</card>
+	<card rank = "12">
+		<title>Fund a Monastery</title>
+		<description>We have need of additional Monasteries to reproduce the Holy writings. Provide materials for construction. This will be quite a costly procedure, but faith will also be needed.</description>
+		<history>In medieval times, monks live in monasteries and tried to be entirely self-sufficient. Monks were literate, unlike many other people of the time, and they documented much of the history of the time.</history>
+		<cost stat = "CostGold">2</cost>
+		<cost stat = "CostInfluence">0</cost>
+		<cost stat = "CostPiety">2</cost>
+		<cost stat = "CostPopularity">0</cost>
+		<reward stat = "RewardGold">0</reward>
+		<reward stat = "RewardInfluence">0</reward>
+		<reward stat = "RewardPiety">1</reward>
+		<reward stat = "RewardPopularity">1</reward>
+		<penalty stat = "PenaltyGold">-1</penalty>
+		<penalty stat = "PenaltyInfluence">0</penalty>
+		<penalty stat = "PenaltyPiety">-1</penalty>
+		<penalty stat = "PenaltyPopularity">-1</penalty>
+	</card>
+</cards>
+
+

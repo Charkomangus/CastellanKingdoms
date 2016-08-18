@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 299e517586cc033498da8460853fd1d1
+timeCreated: 1430649296
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlagSpriteFrance_0
+    21300002: FlagSpriteFrance_1
+    21300004: FlagSpriteFrance_2
+    21300006: FlagSpriteFrance_3
+    21300008: FlagSpriteFrance_4
+    21300010: FlagSpriteFrance_5
+    21300012: FlagSpriteFrance_6
+    21300014: FlagSpriteFrance_7
+    21300016: FlagSpriteFrance_8
+    21300018: FlagSpriteFrance_9
+    21300020: FlagSpriteFrance_10
+    21300022: FlagSpriteFrance_11
+    21300024: FlagSpriteFrance_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlagSpriteFrance_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 943
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 930
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 930
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_3
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 930
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 655
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 655
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 655
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 655
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 378
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_10
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 378
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 378
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpriteFrance_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 105
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

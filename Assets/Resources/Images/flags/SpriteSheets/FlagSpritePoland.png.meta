@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 510ff8d7829af2048bcedf66d03a017d
+timeCreated: 1430649323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlagSpritePoland_0
+    21300002: FlagSpritePoland_1
+    21300004: FlagSpritePoland_2
+    21300006: FlagSpritePoland_3
+    21300008: FlagSpritePoland_4
+    21300010: FlagSpritePoland_5
+    21300012: FlagSpritePoland_6
+    21300014: FlagSpritePoland_7
+    21300016: FlagSpritePoland_8
+    21300018: FlagSpritePoland_9
+    21300020: FlagSpritePoland_10
+    21300022: FlagSpritePoland_11
+    21300024: FlagSpritePoland_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlagSpritePoland_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 910
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 910
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 910
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_3
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 897
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 667
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 652
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_6
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 639
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_7
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 639
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 359
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 359
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_10
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 359
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_11
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 359
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FlagSpritePoland_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 52
+        width: 412
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

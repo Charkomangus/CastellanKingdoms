@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 0134af0e1b9e6a84c9cb5f3440dbcde4
+timeCreated: 1431123192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anim_Spearman_0
+    21300002: anim_Spearman_1
+    21300004: anim_Spearman_2
+    21300006: anim_Spearman_3
+    21300008: anim_Spearman_4
+    21300010: anim_Spearman_5
+    21300012: anim_Spearman_6
+    21300014: anim_Spearman_8
+    21300016: anim_Spearman_9
+    21300018: anim_Spearman_10
+    21300020: anim_Spearman_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: anim_Spearman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 238
+        height: 706
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 204
+        height: 716
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 266
+        height: 705
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_3
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 382
+        height: 720
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_4
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 9
+        width: 409
+        height: 711
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_5
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 6
+        width: 315
+        height: 709
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 286
+        height: 720
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_8
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 348
+        height: 709
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_9
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 11
+        width: 451
+        height: 709
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_10
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 14
+        width: 427
+        height: 706
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anim_Spearman_11
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 6
+        width: 315
+        height: 698
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Scripts\PitchedBattleAnim.cs">
+    <Files>
+      <File FileName="Assets\Code\Scripts\CourtManager.cs" Line="55" Column="18" />
+      <File FileName="Assets\Code\Scripts\CardPolitics.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\XML Files\PoliticalEvents.xml" Line="1" Column="1" />
+      <File FileName="Assets\Code\Scripts\DeckPapal.cs" Line="60" Column="33" />
+      <File FileName="Assets\Code\Scripts\CardPapal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Scripts\StateManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Scripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Code\Scripts\PitchedBattleAnim.cs" Line="97" Column="33" />
+      <File FileName="Assets\Code\Scripts\PitchedBattleManager.cs" Line="655" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
